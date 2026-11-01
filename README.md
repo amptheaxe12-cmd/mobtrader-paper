@@ -119,6 +119,12 @@ the jar comes out as a downloadable artifact on every push.
 gradle build
 ```
 
+<img width="818" height="482" alt="Screenshot 2026-10-31 215244" src="https://github.com/user-attachments/assets/a80dccfd-c5d9-45d5-a02b-e535a8b327e5" />
+<img width="816" height="478" alt="Screenshot 2026-10-31 215637" src="https://github.com/user-attachments/assets/19e22143-7cc6-4e0b-92f0-067d6e598854" />
+<img width="813" height="481" alt="Screenshot 2026-10-31 215523" src="https://github.com/user-attachments/assets/2cc9401a-8534-4ade-9828-64873ddb7155" />
+
+
+
 ## Notes
 
 - Hostile mobs keep attacking while the trade screen is open.
