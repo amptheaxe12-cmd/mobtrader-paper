@@ -1,0 +1,6 @@
+name: MobTrader
+version: '${version}'
+main: com.mobtrader.MobTraderPlugin
+api-version: '26.2'
+author: Amptheaxe12
+description: Right-click almost any mob to open the normal trading screen.
