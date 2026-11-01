@@ -75,13 +75,12 @@ Anything without its own table falls back to a generic emerald list.
 
 ## Install
 
-1. Fabric Loader 0.19.5 or newer for Minecraft 26.2
-2. Fabric API 0.161.0+26.2
-3. Drop the mod jar in your `mods` folder
+1. Paper for Minecraft 26.2
+2. Drop the mod jar in your `plugin` folder
 
 ## Config
 
-Written to `config/mobtrader.json` the first time the mod loads.
+Written to `plugins/MobTrader/mobtrader.json` the first time the mod loads.
 
 ```json
 "minecraft:zombie": [
