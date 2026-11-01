@@ -1,4 +1,4 @@
-name: MobTrader
+name: MobTrader V1
 version: '${version}'
 main: com.mobtrader.MobTraderPlugin
 api-version: '26.2'
