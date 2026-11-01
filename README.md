@@ -131,3 +131,6 @@ You name it you can trade with it
   Turn on `requireSneak` to get shearing, feeding and horse riding back.
 - Stock resets when you close the screen.
 - This is a plugin not a mod
+
+## Plugin https://github.com/amptheaxe12-cmd/mobtrader-paper
+## Mod https://github.com/amptheaxe12-cmd/mobtrader
