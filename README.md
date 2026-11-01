@@ -1,6 +1,6 @@
 # Mob Trader
 
-Right-click almost any mob in Minecraft and the normal trading screen opens. Each
+crouch and right-click almost any mob in Minecraft and the normal trading screen opens. Each
 mob pays out in its own loot, and takes payment in whatever it eats or drops.
 Sheep want wheat and hand over wool. Endermen want ender pearls and hand over
 blocks they'd have stolen anyway.
