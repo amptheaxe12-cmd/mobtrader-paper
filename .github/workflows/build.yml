@@ -23,5 +23,5 @@ jobs:
 
       - uses: actions/upload-artifact@v4
         with:
-          name: mobtrader-paper-jar
+          name: mobtrader-paper-jar v1
           path: build/libs/*.jar
