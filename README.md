@@ -123,7 +123,7 @@ gradle build
 <img width="816" height="478" alt="Screenshot 2026-10-31 215637" src="https://github.com/user-attachments/assets/19e22143-7cc6-4e0b-92f0-067d6e598854" />
 <img width="813" height="481" alt="Screenshot 2026-10-31 215523" src="https://github.com/user-attachments/assets/2cc9401a-8534-4ade-9828-64873ddb7155" />
 
-
+You name it you can trade with it 
 
 ## Notes
 
