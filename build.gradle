@@ -1,0 +1,39 @@
+plugins {
+    id 'java'
+}
+
+version = project.version
+group = project.group
+
+base {
+    archivesName = 'MobTrader'
+}
+
+repositories {
+    mavenCentral()
+    maven {
+        name = 'papermc'
+        url = 'https://repo.papermc.io/repository/maven-public/'
+    }
+}
+
+dependencies {
+    // Provided by the server at runtime, so compileOnly.
+    compileOnly 'io.papermc.paper:paper-api:26.2.build.+'
+}
+
+processResources {
+    inputs.property 'version', project.version
+    filesMatching('plugin.yml') {
+        expand 'version': project.version
+    }
+}
+
+java {
+    toolchain.languageVersion = JavaLanguageVersion.of(25)
+}
+
+tasks.withType(JavaCompile).configureEach {
+    it.options.release = 25
+    it.options.encoding = 'UTF-8'
+}
