@@ -5,7 +5,7 @@ mob pays out in its own loot, and takes payment in whatever it eats or drops.
 Sheep want wheat and hand over wool. Endermen want ender pearls and hand over
 blocks they'd have stolen anyway.
 
-Fabric, Minecraft 26.2. Works in single player and on servers.
+Paper, Minecraft 26.2. Works in single player and on servers.
 
 ## How it works
 
